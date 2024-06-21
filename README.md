@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aroraunnati
 - 👀 I’m interested in makinig new projects and coding as well
 - 🌱 I’m currently persuing B.tech in computer science enegineering.
-- 📫 How to reach me unnatiarora022gmail.com
+- 📫 You can reach me through unnatiarora022gmail.com
 
 <!---
 aroraunnati/aroraunnati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
